@@ -1,6 +1,6 @@
 # Samsung Laptop NP300E5K + Core i5 5200U
 
-![about-12 3 1](https://github.com/nilsen-daniel/EFI-Hackintosh-SamsungLaptop-NP300E5k-Corei5-5200U/blob/main/Imagens/System.png)
+![about-12 3 1](https://github.com/nilsen-daniel/EFI-Hackintosh-SamsungLaptop-NP300E5k-Corei5-5200U/blob/main/Images/System.png)
 
 **Latest working macOS**: 11.7.10
 <br>
@@ -49,11 +49,11 @@
 - WifiLocFix.kext
 
 ## USB-MAP
-![mapped-usb](https://github.com/nilsen-daniel/EFI-Hackintosh-SamsungLaptop-NP300E5k-Corei5-5200U/blob/main/Imagens/USBs.png)
+![mapped-usb](https://github.com/nilsen-daniel/EFI-Hackintosh-SamsungLaptop-NP300E5k-Corei5-5200U/blob/main/Images/USBs.png)
 
 
 ## Peripherals
-![peripherals](https://github.com/nilsen-daniel/EFI-Hackintosh-SamsungLaptop-NP300E5k-Corei5-5200U/blob/main/Imagens/Peripherals.png)
+![peripherals](https://github.com/nilsen-daniel/EFI-Hackintosh-SamsungLaptop-NP300E5k-Corei5-5200U/blob/main/Images/Peripherals.png)
 
 ## Thanks/Credits
 - [Opencore Team](https://dortania.github.io/getting-started/)# EFI-Hackintosh-SamsungLaptop-NP300E5k-Corei5-5200U
