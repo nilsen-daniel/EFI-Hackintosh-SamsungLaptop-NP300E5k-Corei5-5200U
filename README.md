@@ -7,7 +7,7 @@
 **Current OpenCore**: 1.0.5
 
 ## Warning!
-- You must generate your own SMBIOS and past on config.plist
+- You must generate your own SMBIOS and paste on config.plist
 - [corpnewt/GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
 ## Complete hardware specs
